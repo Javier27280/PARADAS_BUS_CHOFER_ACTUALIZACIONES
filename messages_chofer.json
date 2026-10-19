@@ -1,5 +1,11 @@
 [
   {
+    "Id": "85be5450fde14eb0b44f9a774fee2ddf",
+    "Title": "Aviso de ParadasBus",
+    "Body": "BUENA JORNADA",
+    "CreatedAt": "2026-10-19T05:45:03.3470352-03:00"
+  },
+  {
     "Id": "26de949cbe5a4d879a2b1c3164118709",
     "Title": "Aviso de ParadasBus",
     "Body": "MENSAJE DE PRUEBA",
